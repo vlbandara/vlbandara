@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java, Flutter and React.**
 
-- 📝 I regularly write articles on [aggrandizer.info](aggrandizer.info)
+- 📝 I regularly write articles on [aggrandizer.info](https://aggrandizer.info)
 
 - 💬 Ask me about **Java, Flutter and React.**
 
