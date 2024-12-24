@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinodh Lahiru</h1>
 <h3 align="center">A passionate computer engineering student from Sri Lanka</h3>
 
-- 🔭 I’m currently working on [VILS Clothing](https://github.com/vlbandara/VILS_CLOTHING)
+- 🔭 I’m currently working on [SinhalaScribe](https://github.com/vlbandara/SinhalaScribe)
 
 - 🌱 I’m currently learning **Java, Flutter, React, and exploring AI/ML techniques.**
 
