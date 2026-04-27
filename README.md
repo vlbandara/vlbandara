@@ -1,53 +1,56 @@
-<h1 align="center">Hi 👋, I'm Vinodh Lahiru</h1>
-<h3 align="center">A passionate computer engineering student from Sri Lanka</h3>
+<h1 align="center">Hi, I'm Vinodh Lahiru</h1>
+<h3 align="center">AI, backend, and automation developer building practical systems from Sri Lanka.</h3>
 
-- 🔭 I’m currently working on [SinhalaScribe](https://github.com/vlbandara/SinhalaScribe)
+<p align="center">
+  <a href="https://github.com/vlbandara">GitHub</a> |
+  <a href="https://www.linkedin.com/in/vinodh-lahiru-671b8619a/">LinkedIn</a> |
+  <a href="https://aggrandizer.info">Blog</a> |
+  <a href="mailto:vinodhlahiru2000@gmail.com">Email</a>
+</p>
 
-- 🌱 I’m currently learning **Java, Flutter, React, and exploring AI/ML techniques.**
+---
 
-- 📝 I regularly write articles on [Aggrandizer Blog](https://aggrandizer.info)
+## What I am focused on
 
-- 💬 Ask me about **Java, Flutter, React, or any of my blog series on AI and ML topics.**
+- Building AI-first products with Python, FastAPI, LangGraph, and modern LLM workflows.
+- Designing wellness, automation, and data tools that are useful beyond demos.
+- Working across backend services, agents, Telegram integrations, and deployment infrastructure.
+- Exploring the intersection of AI, psychology, behavior support, and human-centered software.
 
-- 📫 How to reach me **vinodhlahiru2000@gmail.com**
+## Current work
 
-- 📄 Know about my professional experiences on [LinkedIn](https://www.linkedin.com/in/vinodh-lahiru-671b8619a/)
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [HealthClaw](https://github.com/vlbandara/healthclaw) | Local-first wellbeing companion with family-safe multi-tenancy, calm companion UX, and optional wearable integrations. | Python |
+| [HealthClawApi](https://github.com/vlbandara/HealthClawApi) | Wellness-only conversational companion API with LangGraph, persistent memory, heartbeat nudges, WebSockets, and Telegram support. | Python, FastAPI, LangGraph |
+| [SinhalaScribe](https://github.com/vlbandara/SinhalaScribe) | AI-based Sinhala spelling and grammar correction tool. | Python, AI/ML |
+| [polymarket-telegram-monitor](https://github.com/vlbandara/polymarket-telegram-monitor) | Telegram monitoring workflow for prediction-market signals. | Python, Telegram |
+| [solana-analysis-bot](https://github.com/vlbandara/solana-analysis-bot) | Automated Solana analysis bot with WhatsApp integration. | Python, automation |
 
-- ⚡ I am passionate about **Psychology, Neural Science, and AI's intersection with humanity.**
+## Toolbox
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/vlbandara" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="vlbandara" height="30" width="40" /></a>
-<a href="https://dev.to/vlbandara" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vlbandara" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vinodh-lahiru" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinodh-lahiru" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/vlbandara" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vlbandara" height="30" width="40" /></a>
-<a href="https://codesandbox.io/u/vlbandara" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="vlbandara" height="30" width="40" /></a>
-<a href="https://kaggle.com/vlbandara" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vlbandara" height="30" width="40" /></a>
-<a href="https://facebook.com/vinodh.lahiru" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vinodh.lahiru" height="30" width="40" /></a>
-<a href="https://medium.com/@vinodhlahiru2000" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vinodhlahiru2000" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@vinodhlahiru571" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@vinodhlahiru571" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/vlbandara" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vlbandara" height="30" width="40" /></a>
-<a href="https://www.aggrandizer.info/feeds/posts/default?alt=rss" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.aggrandizer.info/feeds/posts/default?alt=rss" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
-<a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
-<a href="https://kubernetes.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+## GitHub snapshot
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vlbandara&show_icons=true&theme=transparent&hide_border=true" alt="Vinodh's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlbandara&layout=compact&theme=transparent&hide_border=true" alt="Most used languages" />
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vlbandara&show_icons=true&locale=en&layout=compact" alt="vlbandara" /></p>
+## Contact
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vlbandara&" alt="vlbandara" /></p>
+- Email: [vinodhlahiru2000@gmail.com](mailto:vinodhlahiru2000@gmail.com)
+- LinkedIn: [vinodh-lahiru](https://www.linkedin.com/in/vinodh-lahiru-671b8619a/)
+- Blog: [aggrandizer.info](https://aggrandizer.info)
