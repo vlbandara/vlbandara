@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://github.com/vlbandara">GitHub</a> |
   <a href="https://www.linkedin.com/in/vinodh-lahiru-671b8619a/">LinkedIn</a> |
-  <a href="https://aggrandizer.info">Blog</a> |
+  <a href="https://aifirstlessons.com">Blog</a> |
   <a href="mailto:vinodhlahiru2000@gmail.com">Email</a>
 </p>
 
@@ -53,4 +53,4 @@
 
 - Email: [vinodhlahiru2000@gmail.com](mailto:vinodhlahiru2000@gmail.com)
 - LinkedIn: [vinodh-lahiru](https://www.linkedin.com/in/vinodh-lahiru-671b8619a/)
-- Blog: [aggrandizer.info](https://aggrandizer.info)
+- Blog: [aifirstlessons.com](https://aifirstlessons.com)
